@@ -1,0 +1,8 @@
+.factura{
+
+  display: flex;
+
+  justify-content: end;
+  padding: 30px;
+
+}
